@@ -1,0 +1,18 @@
+.paragraf {
+    background-color: white;
+    width: 603px;
+    height: 650px;
+    float: right;
+    right: 20px;
+    top: 20px;
+    position: absolute;
+    text-align: right;
+    font-weight: bolder;
+    font-size: 14px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    z-index: 2;
+}
+.img {
+    z-index: 1;
+}
